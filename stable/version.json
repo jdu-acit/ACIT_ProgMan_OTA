@@ -1,16 +1,16 @@
 {
-  "channel": "stable",
   "release_date": "2025-12-04",
-  "changelog": "Release v1.7.1",
-  "portable": {
-    "filename": "ESP32_Programmer_v1.7.1.exe",
-    "download_url": "https://github.com/jdu-acit/ACIT_ProgMan_OTA/raw/main/stable/v1.7.1/ESP32_Programmer_v1.7.1.exe",
-    "description": "Exécutable portable - Aucune installation requise"
-  },
-  "version": "1.7.1",
   "installer": {
-    "filename": "ESP32_Programmer_v1.7.1_Setup.exe",
-    "download_url": "https://github.com/jdu-acit/ACIT_ProgMan_OTA/raw/main/stable/v1.7.1/ESP32_Programmer_v1.7.1_Setup.exe",
-    "description": "Installateur professionnel - Installation dans Program Files avec raccourcis"
-  }
+    "filename": "ESP32_Programmer_v1.7.2_Setup.exe",
+    "description": "Installateur professionnel - Installation dans Program Files avec raccourcis",
+    "download_url": "https://github.com/jdu-acit/ACIT_ProgMan_OTA/raw/main/stable/v1.7.2/ESP32_Programmer_v1.7.2_Setup.exe"
+  },
+  "changelog": "Release v1.7.2",
+  "channel": "stable",
+  "portable": {
+    "filename": "ESP32_Programmer_v1.7.2.exe",
+    "description": "Exécutable portable - Aucune installation requise",
+    "download_url": "https://github.com/jdu-acit/ACIT_ProgMan_OTA/raw/main/stable/v1.7.2/ESP32_Programmer_v1.7.2.exe"
+  },
+  "version": "1.7.2"
 }
